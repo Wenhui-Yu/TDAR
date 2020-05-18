@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a646bf53-3940-466c-9f6d-a6755ae2bfd9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/_experiment_transfer$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1565926623501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$check__1_.coverage" NAME="check (1) Coverage Results" MODIFIED="1567768636269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$dataset_precess__1_.coverage" NAME="dataset_precess (1) Coverage Results" MODIFIED="1566371685884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec/备份/1.0/dp" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$_main.coverage" NAME="_main Coverage Results" MODIFIED="1575365028990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$dataset_precess.coverage" NAME="dataset_precess Coverage Results" MODIFIED="1566536635710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.proc_data" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1565960463835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$_main__2_.coverage" NAME="_main (2) Coverage Results" MODIFIED="1578289799426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.mmd" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$model_LCFN.coverage" NAME="model_LCFN Coverage Results" MODIFIED="1580787679714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../_experiment_LCFN" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$params.coverage" NAME="params Coverage Results" MODIFIED="1566352619989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
+    <SUITE FILE_PATH="coverage/code$_main__1_.coverage" NAME="_main (1) Coverage Results" MODIFIED="1581611910171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$data_process.coverage" NAME="data_process Coverage Results" MODIFIED="1581236556732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.data_process" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$data_collection.coverage" NAME="data_collection Coverage Results" MODIFIED="1581236595934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.data_process" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$_main__1_.coverage" NAME="_main (1) Coverage Results" MODIFIED="1575443215288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.review2vec" />
+    <SUITE FILE_PATH="coverage/code$_main.coverage" NAME="_main Coverage Results" MODIFIED="1581610937672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$FFT.coverage" NAME="FFT Coverage Results" MODIFIED="1581087930683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../_experiment_LCFN/备份" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$test.coverage" NAME="test Coverage Results" MODIFIED="1565771748143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.proc_data" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$check.coverage" NAME="check Coverage Results" MODIFIED="1566654630447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$chech.coverage" NAME="chech Coverage Results" MODIFIED="1578887246449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$jielv.coverage" NAME="jielv Coverage Results" MODIFIED="1578325160731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$review2vec.coverage" NAME="review2vec Coverage Results" MODIFIED="1566356840982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$visualization.coverage" NAME="visualization Coverage Results" MODIFIED="1571316311943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
+    <SUITE FILE_PATH="coverage/_experiment_transfer$_review2vec.coverage" NAME="_review2vec Coverage Results" MODIFIED="1575102862653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.proc_data/dataset_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2000">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>|</find>
+      <find>words</find>
+      <find>open_workbook</find>
+      <find>copy</find>
+      <find>self.emb_dim</find>
+      <find>user_review_feature</find>
+      <find>_bpr</find>
+      <find>_BPR</find>
+      <find>\\</find>
+      <find>..</find>
+      <find>domain_discrim_user</find>
+      <find>user</find>
+      <find>factors</find>
+      <find>y</find>
+      <find>normalize</find>
+      <find>lr</find>
+      <find>batch_size</find>
+      <find>eta_domain_disc</find>
+      <find>DAR</find>
+      <find>DANN</find>
+      <find>u_t</find>
+      <find>TMN</find>
+      <find>filter</find>
+      <find>user_word_num</find>
+      <find>filter_sizes</find>
+      <find>u</find>
+      <find>item_</find>
+      <find>emb_dim</find>
+      <find>dropout</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_factors</replace>
+      <replace>embeddings</replace>
+      <replace>x</replace>
+      <replace>lr_rec</replace>
+      <replace>CoNN</replace>
+      <replace>item</replace>
+      <replace>i</replace>
+      <replace>u_</replace>
+      <replace>i_</replace>
+      <replace>emb_dim_text</replace>
+      <replace>T_</replace>
+      <replace>+</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2.review2vec/test2.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/test.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/train_MF.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/train_TMF.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/print_save.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/review2vec.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/model_MF_BPR.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/model_TMF_BPR.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/备份/1.0/dp/dataset_precess.py" />
+        <option value="$PROJECT_DIR$/params.py" />
+        <option value="$PROJECT_DIR$/_main.py" />
+        <option value="$PROJECT_DIR$/train_model.py" />
+        <option value="$PROJECT_DIR$/../_experiment_LCFN/dataset/movielens/movielens.py" />
+        <option value="$PROJECT_DIR$/1.proc_data/dataset_precess.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/check.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/model_MLP.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/check.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/model_TR.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/visualization.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/print_save.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/_review2vec.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/model_DAR.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/model_TDAR.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/model_DANN.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/model_CoNet.py" />
+        <option value="$PROJECT_DIR$/5.review2vec/model_TMN.py" />
+        <option value="$PROJECT_DIR$/5.review2vec/params.py" />
+        <option value="$PROJECT_DIR$/5.review2vec/model_CoNN.py" />
+        <option value="$PROJECT_DIR$/5.review2vec/_main.py" />
+        <option value="$PROJECT_DIR$/5.review2vec/train_model.py" />
+        <option value="$PROJECT_DIR$/../DeepCoNN-master/model/DeepCoNN.py" />
+        <option value="$PROJECT_DIR$/8.mmd/train_model.py" />
+        <option value="$PROJECT_DIR$/8.mmd/params.py" />
+        <option value="$PROJECT_DIR$/../jielv.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/chech.py" />
+        <option value="$PROJECT_DIR$/4.data_process/data_process.py" />
+        <option value="$PROJECT_DIR$/../_experiment_LCFN/备份/FFT.py" />
+        <option value="$PROJECT_DIR$/../_experiment_LCFN/code/params.py" />
+        <option value="$PROJECT_DIR$/1.proc_data/dataset_process.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/test_model.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/read_data.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/model_TMN.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/model_TMF.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/_main.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/train_model.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/test_model.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/read_data.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/train_model.py" />
+        <option value="$PROJECT_DIR$/2.review2vec/params.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/_main.py" />
+        <option value="$PROJECT_DIR$/3.tranfer_rec/params.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-246" />
+    <option name="y" value="-6" />
+    <option name="width" value="1947" />
+    <option name="height" value="1107" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="3.tranfer_rec" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python._main (1)">
+    <configuration name="FFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_experiment_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../_experiment_LCFN/备份" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../_experiment_LCFN/备份/FFT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_main (1)" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true">
+      <module name="_experiment_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.tranfer_rec" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.tranfer_rec/_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_experiment_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.review2vec" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.review2vec/_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_collection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_experiment_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.data_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.data_process/data_collection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_experiment_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.data_process" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.data_process/data_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.data_process" />
+      <item itemvalue="Python.data_collection" />
+      <item itemvalue="Python.FFT" />
+      <item itemvalue="Python._main" />
+      <item itemvalue="Python._main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._main (1)" />
+        <item itemvalue="Python._main" />
+        <item itemvalue="Python.data_collection" />
+        <item itemvalue="Python.data_process" />
+        <item itemvalue="Python.FFT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a646bf53-3940-466c-9f6d-a6755ae2bfd9" name="Default Changelist" comment="" />
+      <created>1565751700043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565751700043</updated>
+      <workItem from="1565751701629" duration="18150000" />
+      <workItem from="1565776846261" duration="3629000" />
+      <workItem from="1565835120515" duration="20600000" />
+      <workItem from="1565877325874" duration="1440000" />
+      <workItem from="1565922200928" duration="14558000" />
+      <workItem from="1565960408105" duration="1848000" />
+      <workItem from="1566015993955" duration="1087000" />
+      <workItem from="1566038058803" duration="9585000" />
+      <workItem from="1566130288786" duration="2964000" />
+      <workItem from="1566205310271" duration="3676000" />
+      <workItem from="1566222943086" duration="3813000" />
+      <workItem from="1566268847919" duration="2714000" />
+      <workItem from="1566283623673" duration="2650000" />
+      <workItem from="1566303573774" duration="1466000" />
+      <workItem from="1566352560133" duration="7570000" />
+      <workItem from="1566371673855" duration="2078000" />
+      <workItem from="1566394926168" duration="176000" />
+      <workItem from="1566461473253" duration="1998000" />
+      <workItem from="1566485396683" duration="688000" />
+      <workItem from="1566528053932" duration="12000" />
+      <workItem from="1566530225780" duration="7667000" />
+      <workItem from="1566573186079" duration="1937000" />
+      <workItem from="1566650526389" duration="97000" />
+      <workItem from="1566650949662" duration="1862000" />
+      <workItem from="1566662554061" duration="14000" />
+      <workItem from="1566739543184" duration="23000" />
+      <workItem from="1566742946950" duration="479000" />
+      <workItem from="1566781606067" duration="288000" />
+      <workItem from="1566810654561" duration="97000" />
+      <workItem from="1566983927090" duration="147000" />
+      <workItem from="1567042297217" duration="304000" />
+      <workItem from="1567065296579" duration="129000" />
+      <workItem from="1567068853575" duration="22000" />
+      <workItem from="1567069837458" duration="107000" />
+      <workItem from="1567144140584" duration="2712000" />
+      <workItem from="1567256365528" duration="3541000" />
+      <workItem from="1567321471609" duration="2193000" />
+      <workItem from="1567349067742" duration="1152000" />
+      <workItem from="1567355400330" duration="3108000" />
+      <workItem from="1567409955790" duration="642000" />
+      <workItem from="1567416577966" duration="1440000" />
+      <workItem from="1567479518212" duration="772000" />
+      <workItem from="1567501914219" duration="3766000" />
+      <workItem from="1567579251127" duration="3587000" />
+      <workItem from="1567583093196" duration="40000" />
+      <workItem from="1567596824460" duration="3001000" />
+      <workItem from="1567667595469" duration="1351000" />
+      <workItem from="1567756401184" duration="3764000" />
+      <workItem from="1567840526850" duration="2833000" />
+      <workItem from="1567857878910" duration="2867000" />
+      <workItem from="1568169348257" duration="1771000" />
+      <workItem from="1568206786232" duration="3979000" />
+      <workItem from="1568277793461" duration="1763000" />
+      <workItem from="1568299847928" duration="112000" />
+      <workItem from="1568344505874" duration="8631000" />
+      <workItem from="1568432721674" duration="844000" />
+      <workItem from="1568531068910" duration="623000" />
+      <workItem from="1571277686788" duration="1290000" />
+      <workItem from="1571311945791" duration="5413000" />
+      <workItem from="1571884928547" duration="11978000" />
+      <workItem from="1571906883061" duration="856000" />
+      <workItem from="1571930912557" duration="56000" />
+      <workItem from="1571973335506" duration="313000" />
+      <workItem from="1571973735499" duration="97000" />
+      <workItem from="1571973895872" duration="8765000" />
+      <workItem from="1571988740650" duration="1723000" />
+      <workItem from="1572071679955" duration="6816000" />
+      <workItem from="1572092457983" duration="2205000" />
+      <workItem from="1572179686301" duration="13036000" />
+      <workItem from="1572224826528" duration="5534000" />
+      <workItem from="1572247788059" duration="5443000" />
+      <workItem from="1572314883267" duration="4985000" />
+      <workItem from="1572418762946" duration="1332000" />
+      <workItem from="1572489521374" duration="3355000" />
+      <workItem from="1572572088768" duration="990000" />
+      <workItem from="1572596619171" duration="1096000" />
+      <workItem from="1572664385947" duration="797000" />
+      <workItem from="1572752805475" duration="1203000" />
+      <workItem from="1572789423398" duration="1433000" />
+      <workItem from="1572836281674" duration="2599000" />
+      <workItem from="1572850904157" duration="1813000" />
+      <workItem from="1572880071947" duration="3512000" />
+      <workItem from="1572948857946" duration="764000" />
+      <workItem from="1573020911058" duration="848000" />
+      <workItem from="1574750501811" duration="2040000" />
+      <workItem from="1574833764847" duration="1007000" />
+      <workItem from="1574919293550" duration="1948000" />
+      <workItem from="1574999073021" duration="1218000" />
+      <workItem from="1575098730404" duration="125000" />
+      <workItem from="1575102207591" duration="147000" />
+      <workItem from="1575102377967" duration="71000" />
+      <workItem from="1575102824593" duration="3428000" />
+      <workItem from="1575272822315" duration="819000" />
+      <workItem from="1575277847180" duration="7389000" />
+      <workItem from="1575299549824" duration="993000" />
+      <workItem from="1575340180967" duration="4369000" />
+      <workItem from="1575363353976" duration="7740000" />
+      <workItem from="1575428039524" duration="5939000" />
+      <workItem from="1575452392541" duration="1621000" />
+      <workItem from="1575515643584" duration="2796000" />
+      <workItem from="1575601347762" duration="1363000" />
+      <workItem from="1575712684200" duration="1069000" />
+      <workItem from="1575786102595" duration="19000" />
+      <workItem from="1575943657126" duration="2355000" />
+      <workItem from="1576032461773" duration="1513000" />
+      <workItem from="1576248351199" duration="1313000" />
+      <workItem from="1576812913988" duration="69000" />
+      <workItem from="1577104569957" duration="925000" />
+      <workItem from="1577440595313" duration="647000" />
+      <workItem from="1577546724298" duration="619000" />
+      <workItem from="1577591022236" duration="1305000" />
+      <workItem from="1577623249680" duration="1146000" />
+      <workItem from="1577693611291" duration="3128000" />
+      <workItem from="1577931525272" duration="654000" />
+      <workItem from="1577962292150" duration="164000" />
+      <workItem from="1578207198754" duration="3115000" />
+      <workItem from="1578286982378" duration="1869000" />
+      <workItem from="1578312002779" duration="3214000" />
+      <workItem from="1578320986811" duration="4789000" />
+      <workItem from="1578648517192" duration="52000" />
+      <workItem from="1578648570989" duration="1755000" />
+      <workItem from="1578658683327" duration="4483000" />
+      <workItem from="1578709825982" duration="535000" />
+      <workItem from="1578813392251" duration="4199000" />
+      <workItem from="1578885532678" duration="3443000" />
+      <workItem from="1578982713214" duration="880000" />
+      <workItem from="1579099808151" duration="1641000" />
+      <workItem from="1579226571550" duration="673000" />
+      <workItem from="1579314468460" duration="1230000" />
+      <workItem from="1579400995725" duration="1585000" />
+      <workItem from="1579487061748" duration="878000" />
+      <workItem from="1579583588590" duration="852000" />
+      <workItem from="1580699171976" duration="1884000" />
+      <workItem from="1580787345992" duration="2822000" />
+      <workItem from="1580837262617" duration="1272000" />
+      <workItem from="1580874636370" duration="744000" />
+      <workItem from="1581085025850" duration="2472000" />
+      <workItem from="1581134070074" duration="800000" />
+      <workItem from="1581170653584" duration="1242000" />
+      <workItem from="1581236006544" duration="798000" />
+      <workItem from="1581604856773" duration="5339000" />
+      <workItem from="1581612863498" duration="614000" />
+      <workItem from="1589802066314" duration="860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="368598000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14793856" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37411347" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56914896" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3144705" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3.tranfer_rec/test_model.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="item_review[7]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../model_TDAR.py" />
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_DAR.py" />
+    <entry file="file://$PROJECT_DIR$/5.review2vec/model_TMN.py" />
+    <entry file="file://$PROJECT_DIR$/../DeepCoNN-master/model/train.py" />
+    <entry file="file://$PROJECT_DIR$/../DeepCoNN-master/model/DeepCoNN.py" />
+    <entry file="file://$PROJECT_DIR$/5.review2vec/model_CoNN.py" />
+    <entry file="file://$PROJECT_DIR$/5.review2vec/_main.py" />
+    <entry file="file://$PROJECT_DIR$/5.review2vec/train_model.py" />
+    <entry file="file://$PROJECT_DIR$/5.review2vec/params.py" />
+    <entry file="file://$PROJECT_DIR$/8.mmd/train_model.py" />
+    <entry file="file://$PROJECT_DIR$/8.mmd/_main.py" />
+    <entry file="file://$PROJECT_DIR$/8.mmd/params.py" />
+    <entry file="file://$PROJECT_DIR$/../jielv.py" />
+    <entry file="file://$PROJECT_DIR$/../software/anaconda/Anaconda3/Lib/site-packages/tensorflow/python/framework/constant_op.py" />
+    <entry file="file://$PROJECT_DIR$/../_experiment_LCFN/model_LCFN.py" />
+    <entry file="file://$PROJECT_DIR$/../neural_graph_collaborative_filtering-master/NGCF/NGCF.py" />
+    <entry file="file://$PROJECT_DIR$/../neural_graph_collaborative_filtering-master/NGCF/NMF.py" />
+    <entry file="file://$PROJECT_DIR$/../LCFN111/_experiment_LCFN/data_process/print_save.py" />
+    <entry file="file://$PROJECT_DIR$/1.proc_data/dataset_precess.py" />
+    <entry file="file://$PROJECT_DIR$/../_experiment_LCFN/备份/2.0/params.py" />
+    <entry file="file://$PROJECT_DIR$/../_experiment_LCFN/备份/2.0/model_NGCF.py" />
+    <entry file="file://$PROJECT_DIR$/../_experiment_LCFN/code/_main.py" />
+    <entry file="file://$PROJECT_DIR$/../_experiment_LCFN/备份/FFT.py" />
+    <entry file="file://$PROJECT_DIR$/4.data_process/data_process.py" />
+    <entry file="file://$PROJECT_DIR$/../_experiment_LCFN/code/params.py" />
+    <entry file="file://$PROJECT_DIR$/4.data_process/data_collection.py" />
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_TMF.py" />
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_NCF.py" />
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_MF.py" />
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_DANN.py" />
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_CoNet.py" />
+    <entry file="file://$PROJECT_DIR$/2.review2vec/train_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/test_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/read_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/print_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1292">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/model_TMN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="81" column="67" selection-start-line="81" selection-start-column="67" selection-end-line="81" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/model_TMF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#64#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/model_MF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-517">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/chech.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/print_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/read_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/test_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#118#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_TDAR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.review2vec/params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/train_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.proc_data/dataset_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2000">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
