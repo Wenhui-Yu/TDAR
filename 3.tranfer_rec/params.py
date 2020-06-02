@@ -1,3 +1,6 @@
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
+
 dataset_T = 0                        # 0:video, 1:cd, 2:clothes
 validate_test = 0                    # 0:Validate, 1: Test
 

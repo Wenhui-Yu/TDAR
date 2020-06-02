@@ -1,4 +1,6 @@
 ## test the model and return the performance
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
 
 from evaluation import *
 from read_data import *

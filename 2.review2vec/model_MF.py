@@ -1,4 +1,7 @@
-## MF optimized by point-wise cross entropy loss
+## MF
+## Optimized by point-wise cross entropy loss
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
 
 import tensorflow as tf
 

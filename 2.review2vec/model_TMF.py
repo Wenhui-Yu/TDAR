@@ -1,4 +1,7 @@
-# text-aware MF, the text features are extracted by TMN model.
+## Text Collaborative Filtering (TCF)
+## The text features are extracted by TMN model.
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
 
 import tensorflow as tf
 import numpy as np

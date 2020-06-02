@@ -1,4 +1,5 @@
 ## split train data into batches and train the model
+## Text-enhanced domain adaptation for recommendation TDR
 
 from model_TDAR import *
 from test_model import *

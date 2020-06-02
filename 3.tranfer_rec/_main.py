@@ -1,5 +1,6 @@
-## author@Wenhui Yu  email:yuwh16@tsinghua.edu.cn  2019.04.14
-## Transfer learning recommendation (TL) and baselines
+## Text-enhanced Domain Adaptation for Recommendation (TDAR)
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
 
 from train_model import *
 from params import *

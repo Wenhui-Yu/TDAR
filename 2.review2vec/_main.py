@@ -1,4 +1,6 @@
 ## For TMN and TCF
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
 
 from train_model import *
 from params import *

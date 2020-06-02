@@ -1,4 +1,4 @@
-Codes for paper
+Codes for paper:
 Wenhui Yu, Xiao Lin, Junfeng Ge, Wenwu Ou, and Zheng Qin. 2020. Semisupervised Collaborative Filtering by Text-enhanced Domain Adaptation. In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ¡¯20), August 23¨C27, 2020, Virtual Event, CA, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3394486.3403264
 
 This project is for our model TMN, TCF, and TDAR.

@@ -1,3 +1,6 @@
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
+
 from numpy import *
 
 def evaluation_F1(order, top_k, positive_item):
