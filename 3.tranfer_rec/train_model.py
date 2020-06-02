@@ -1,5 +1,6 @@
 ## split train data into batches and train the model
-## Text-enhanced domain adaptation for recommendation TDR
+## Wenhui Yu 2020.06.02
+## author @Wenhui Yu, yuwh16@mails.tsinghua.edu.cn
 
 from model_TDAR import *
 from test_model import *
