@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a646bf53-3940-466c-9f6d-a6755ae2bfd9" name="Default Changelist" comment="" />
+    <list default="true" id="a646bf53-3940-466c-9f6d-a6755ae2bfd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/experiment_result/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +14,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/_experiment_transfer$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1565926623501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$check__1_.coverage" NAME="check (1) Coverage Results" MODIFIED="1567768636269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
+    <SUITE FILE_PATH="coverage/code$data_collection__1_.coverage" NAME="data_collection (1) Coverage Results" MODIFIED="1593236023817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.result_collection" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$dataset_precess__1_.coverage" NAME="dataset_precess (1) Coverage Results" MODIFIED="1566371685884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec/备份/1.0/dp" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$_main.coverage" NAME="_main Coverage Results" MODIFIED="1575365028990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$dataset_precess.coverage" NAME="dataset_precess Coverage Results" MODIFIED="1566536635710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.proc_data" />
@@ -28,12 +32,41 @@
     <SUITE FILE_PATH="coverage/_experiment_transfer$check.coverage" NAME="check Coverage Results" MODIFIED="1566654630447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$chech.coverage" NAME="chech Coverage Results" MODIFIED="1578887246449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$jielv.coverage" NAME="jielv Coverage Results" MODIFIED="1578325160731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../" />
+    <SUITE FILE_PATH="coverage/code$data_process__1_.coverage" NAME="data_process (1) Coverage Results" MODIFIED="1593236041647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.result_collection" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$review2vec.coverage" NAME="review2vec Coverage Results" MODIFIED="1566356840982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$visualization.coverage" NAME="visualization Coverage Results" MODIFIED="1571316311943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.tranfer_rec" />
     <SUITE FILE_PATH="coverage/_experiment_transfer$_review2vec.coverage" NAME="_review2vec Coverage Results" MODIFIED="1575102862653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.review2vec" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.result_collection/data_collection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.result_collection/data_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2.review2vec/test2.py" />
         <option value="$PROJECT_DIR$/2.review2vec/test.py" />
         <option value="$PROJECT_DIR$/2.review2vec/train_MF.py" />
         <option value="$PROJECT_DIR$/2.review2vec/train_TMF.py" />
@@ -147,6 +179,7 @@
         <option value="$PROJECT_DIR$/2.review2vec/params.py" />
         <option value="$PROJECT_DIR$/3.tranfer_rec/_main.py" />
         <option value="$PROJECT_DIR$/3.tranfer_rec/params.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
       </list>
     </option>
   </component>
@@ -162,7 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,11 +206,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/ranking备份" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -195,29 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._main (1)">
-    <configuration name="FFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="_experiment_transfer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../_experiment_LCFN/备份" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../_experiment_LCFN/备份/FFT.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.data_process (1)">
     <configuration name="_main (1)" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true">
       <module name="_experiment_transfer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,6 +273,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="data_collection (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="_experiment_transfer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.result_collection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.result_collection/data_collection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="data_collection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_experiment_transfer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="data_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="data_process (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="_experiment_transfer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,12 +325,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.data_process" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.result_collection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.data_process/data_process.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.result_collection/data_process.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,19 +340,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.data_process" />
       <item itemvalue="Python.data_collection" />
-      <item itemvalue="Python.FFT" />
       <item itemvalue="Python._main" />
       <item itemvalue="Python._main (1)" />
+      <item itemvalue="Python.data_process (1)" />
+      <item itemvalue="Python.data_collection (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.data_process (1)" />
+        <item itemvalue="Python.data_collection (1)" />
         <item itemvalue="Python._main (1)" />
         <item itemvalue="Python._main" />
         <item itemvalue="Python.data_collection" />
-        <item itemvalue="Python.data_process" />
-        <item itemvalue="Python.FFT" />
       </list>
     </recent_temporary>
   </component>
@@ -478,21 +511,23 @@
       <workItem from="1589802066314" duration="860000" />
       <workItem from="1590315625911" duration="788000" />
       <workItem from="1590563227300" duration="18000" />
+      <workItem from="1593235804436" duration="1472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="369404000" />
+    <option name="totallyTimeSpent" value="370876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15278901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15521424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37411347" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37300178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.56914896" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,9 +565,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.tranfer_rec/model_DAR.py" />
-    <entry file="file://$PROJECT_DIR$/5.review2vec/model_TMN.py" />
-    <entry file="file://$PROJECT_DIR$/../DeepCoNN-master/model/train.py" />
     <entry file="file://$PROJECT_DIR$/../DeepCoNN-master/model/DeepCoNN.py" />
     <entry file="file://$PROJECT_DIR$/5.review2vec/model_CoNN.py" />
     <entry file="file://$PROJECT_DIR$/5.review2vec/_main.py" />
@@ -691,12 +723,25 @@
     <entry file="file://$PROJECT_DIR$/3.tranfer_rec/evaluation.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://D:/TDAR-master/3.tranfer_rec/chech.py">
+    <entry file="file://D:/TDAR-master/3.tranfer_rec/chech.py" />
+    <entry file="file://$PROJECT_DIR$/4.result_collection/data_collection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#1#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.result_collection/data_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
         </state>
       </provider>
     </entry>
